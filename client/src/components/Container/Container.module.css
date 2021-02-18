@@ -1,0 +1,8 @@
+.Container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: auto;
+    padding: 10px;
+}
